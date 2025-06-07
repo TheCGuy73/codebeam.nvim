@@ -1,0 +1,9 @@
+return {
+  {
+    "TheCGuy73/codebeam.nvim", -- Sostituisci con il tuo nome utente GitHub
+    name = "codebeam",
+    lazy = false, -- Imposta a false per caricare il tema all'avvio
+    priority = 1000, -- Assicurati che il tema venga caricato prima di altri plugin
+  },
+  -- ... altri plugin
+}
